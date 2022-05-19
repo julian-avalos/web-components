@@ -1,0 +1,11 @@
+@use './variables' as vars;
+
+.mediabox {
+    color: vars.$black;
+    background-color: vars.$white;
+    padding: 2rem;
+
+    a {
+        color: vars.$red;
+    }
+}
