@@ -1,3 +1,5 @@
 @use './variables';
-@use './base';
+@use './reset';
+@use './pico-scss/pico.scss';
+@use './headings';
 @use './mediabox';
